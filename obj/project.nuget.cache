@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHZK3sXR0+Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\CNLTWeb\\BaiTap22\\BaiTap22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
